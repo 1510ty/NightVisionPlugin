@@ -1,0 +1,7 @@
+name: NightVisionPlugin
+version: 1.0.6
+main: com.mc1510ty.NightVisionPlugin.Main
+description: 暗視プラグイン
+author: 1510ty
+website: https://github.com/1510ty/NightVisionPlugin/
+api-version: '1.21.10'
